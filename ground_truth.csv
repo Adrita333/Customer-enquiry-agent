@@ -1,0 +1,901 @@
+enquiry_id,true_topic,true_language,true_is_health,true_order_quoted
+ENQ-0000,Subscription,en,False,False
+ENQ-0001,Order status,en,False,True
+ENQ-0002,Order status,ms,False,False
+ENQ-0003,Sizing,ms,False,False
+ENQ-0004,Sizing,id,False,False
+ENQ-0005,Where to buy,en,False,False
+ENQ-0006,Order status,en,False,False
+ENQ-0007,Refund/return,en,False,True
+ENQ-0008,Sizing,id,False,False
+ENQ-0009,Sizing,en,False,False
+ENQ-0010,Sizing,en,False,False
+ENQ-0011,Damaged item,id,False,False
+ENQ-0012,Where to buy,ms,False,False
+ENQ-0013,Where to buy,id,False,False
+ENQ-0014,Delivery delay,ms,False,True
+ENQ-0015,Product usage,id,False,False
+ENQ-0016,Order status,sg,False,True
+ENQ-0017,Sizing,id,False,False
+ENQ-0018,Delivery delay,en,False,True
+ENQ-0019,Where to buy,zh,False,False
+ENQ-0020,Refund/return,ms,False,True
+ENQ-0021,Health complaint,id,True,False
+ENQ-0022,Unclear,id,False,False
+ENQ-0023,Damaged item,id,False,False
+ENQ-0024,Where to buy,sg,False,False
+ENQ-0025,Product usage,en,False,False
+ENQ-0026,Where to buy,ms,False,False
+ENQ-0027,Product usage,id,False,False
+ENQ-0028,Sizing,id,False,False
+ENQ-0029,Sizing,sg,False,False
+ENQ-0030,Damaged item,en,False,False
+ENQ-0031,Refund/return,en,False,True
+ENQ-0032,Sizing,sg,False,False
+ENQ-0033,Sizing,en,False,False
+ENQ-0034,Damaged item,en,False,False
+ENQ-0035,Order status,en,False,True
+ENQ-0036,Refund/return,id,False,False
+ENQ-0037,Where to buy,id,False,False
+ENQ-0038,Order status,en,False,False
+ENQ-0039,Damaged item,ms,False,False
+ENQ-0040,Subscription,en,False,False
+ENQ-0041,Delivery delay,en,False,True
+ENQ-0042,Order status,en,False,True
+ENQ-0043,Refund/return,id,False,False
+ENQ-0044,Unclear,ms,False,False
+ENQ-0045,Order status,ms,False,False
+ENQ-0046,Damaged item,ms,False,False
+ENQ-0047,Product usage,ms,False,False
+ENQ-0048,Damaged item,id,False,True
+ENQ-0049,Delivery delay,sg,False,False
+ENQ-0050,Delivery delay,sg,False,False
+ENQ-0051,Sizing,en,False,False
+ENQ-0052,Refund/return,en,False,True
+ENQ-0053,Sizing,sg,False,False
+ENQ-0054,Delivery delay,id,False,False
+ENQ-0055,Delivery delay,en,False,False
+ENQ-0056,Where to buy,en,False,False
+ENQ-0057,Refund/return,sg,False,False
+ENQ-0058,Product usage,zh,False,False
+ENQ-0059,Delivery delay,zh,False,True
+ENQ-0060,Unclear,en,False,False
+ENQ-0061,Refund/return,ms,False,False
+ENQ-0062,Damaged item,id,False,False
+ENQ-0063,Damaged item,sg,False,True
+ENQ-0064,Refund/return,id,False,True
+ENQ-0065,Order status,zh,False,True
+ENQ-0066,Product usage,en,False,False
+ENQ-0067,Order status,en,False,True
+ENQ-0068,Subscription,en,False,False
+ENQ-0069,Subscription,en,False,False
+ENQ-0070,Order status,id,False,False
+ENQ-0071,Where to buy,id,False,False
+ENQ-0072,Unclear,en,False,False
+ENQ-0073,Damaged item,ms,False,True
+ENQ-0074,Refund/return,id,False,True
+ENQ-0075,Product usage,zh,False,False
+ENQ-0076,Sizing,en,False,False
+ENQ-0077,Delivery delay,id,False,False
+ENQ-0078,Delivery delay,sg,False,True
+ENQ-0079,Refund/return,en,False,False
+ENQ-0080,Subscription,id,False,False
+ENQ-0081,Sizing,en,False,False
+ENQ-0082,Sizing,en,False,False
+ENQ-0083,Subscription,id,False,False
+ENQ-0084,Order status,sg,False,False
+ENQ-0085,Ingredients,en,False,False
+ENQ-0086,Sizing,ms,False,False
+ENQ-0087,Health complaint,id,True,False
+ENQ-0088,Product usage,ms,False,False
+ENQ-0089,Order status,en,False,False
+ENQ-0090,Delivery delay,zh,False,False
+ENQ-0091,Product usage,en,False,False
+ENQ-0092,Product usage,id,False,False
+ENQ-0093,Delivery delay,id,False,False
+ENQ-0094,Sizing,en,False,False
+ENQ-0095,Sizing,id,False,False
+ENQ-0096,Refund/return,en,False,False
+ENQ-0097,Product usage,ms,False,False
+ENQ-0098,Unclear,en,False,False
+ENQ-0099,Order status,id,False,False
+ENQ-0100,Product usage,en,False,False
+ENQ-0101,Where to buy,en,False,False
+ENQ-0102,Refund/return,en,False,True
+ENQ-0103,Where to buy,id,False,False
+ENQ-0104,Sizing,en,False,False
+ENQ-0105,Refund/return,ms,False,True
+ENQ-0106,Refund/return,en,False,False
+ENQ-0107,Health complaint,id,True,False
+ENQ-0108,Sizing,ms,False,False
+ENQ-0109,Damaged item,id,False,True
+ENQ-0110,Product usage,sg,False,False
+ENQ-0111,Refund/return,en,False,False
+ENQ-0112,Order status,en,False,True
+ENQ-0113,Refund/return,zh,False,True
+ENQ-0114,Sizing,en,False,False
+ENQ-0115,Damaged item,en,False,False
+ENQ-0116,Where to buy,id,False,False
+ENQ-0117,Refund/return,zh,False,False
+ENQ-0118,Where to buy,zh,False,False
+ENQ-0119,Delivery delay,ms,False,True
+ENQ-0120,Delivery delay,en,False,True
+ENQ-0121,Order status,en,False,True
+ENQ-0122,Delivery delay,en,False,False
+ENQ-0123,Where to buy,en,False,False
+ENQ-0124,Sizing,ms,False,False
+ENQ-0125,Order status,id,False,False
+ENQ-0126,Subscription,en,False,False
+ENQ-0127,Order status,id,False,False
+ENQ-0128,Unclear,id,False,False
+ENQ-0129,Where to buy,id,False,False
+ENQ-0130,Order status,en,False,True
+ENQ-0131,Sizing,id,False,False
+ENQ-0132,Sizing,id,False,False
+ENQ-0133,Refund/return,en,False,True
+ENQ-0134,Health complaint,en,True,False
+ENQ-0135,Ingredients,en,False,False
+ENQ-0136,Refund/return,id,False,False
+ENQ-0137,Order status,en,False,False
+ENQ-0138,Where to buy,id,False,False
+ENQ-0139,Delivery delay,id,False,False
+ENQ-0140,Damaged item,id,False,False
+ENQ-0141,Ingredients,id,False,False
+ENQ-0142,Health complaint,sg,True,False
+ENQ-0143,Subscription,en,False,False
+ENQ-0144,Order status,id,False,False
+ENQ-0145,Unclear,sg,False,False
+ENQ-0146,Delivery delay,en,False,False
+ENQ-0147,Sizing,id,False,False
+ENQ-0148,Where to buy,id,False,False
+ENQ-0149,Refund/return,zh,False,False
+ENQ-0150,Unclear,sg,False,False
+ENQ-0151,Damaged item,ms,False,True
+ENQ-0152,Subscription,ms,False,False
+ENQ-0153,Refund/return,en,False,True
+ENQ-0154,Refund/return,ms,False,False
+ENQ-0155,Ingredients,sg,False,False
+ENQ-0156,Sizing,id,False,False
+ENQ-0157,Sizing,id,False,False
+ENQ-0158,Product usage,en,False,False
+ENQ-0159,Order status,ms,False,True
+ENQ-0160,Ingredients,id,False,False
+ENQ-0161,Unclear,id,False,False
+ENQ-0162,Sizing,ms,False,False
+ENQ-0163,Order status,ms,False,True
+ENQ-0164,Order status,id,False,False
+ENQ-0165,Refund/return,ms,False,False
+ENQ-0166,Sizing,id,False,False
+ENQ-0167,Product usage,id,False,False
+ENQ-0168,Order status,id,False,True
+ENQ-0169,Product usage,ms,False,False
+ENQ-0170,Subscription,id,False,False
+ENQ-0171,Subscription,id,False,False
+ENQ-0172,Product usage,ms,False,False
+ENQ-0173,Subscription,sg,False,False
+ENQ-0174,Subscription,en,False,False
+ENQ-0175,Ingredients,ms,False,False
+ENQ-0176,Order status,ms,False,True
+ENQ-0177,Where to buy,ms,False,False
+ENQ-0178,Damaged item,en,False,False
+ENQ-0179,Health complaint,en,True,False
+ENQ-0180,Damaged item,en,False,False
+ENQ-0181,Damaged item,en,False,False
+ENQ-0182,Order status,sg,False,False
+ENQ-0183,Subscription,en,False,False
+ENQ-0184,Damaged item,en,False,True
+ENQ-0185,Delivery delay,id,False,False
+ENQ-0186,Delivery delay,ms,False,True
+ENQ-0187,Refund/return,id,False,False
+ENQ-0188,Delivery delay,zh,False,False
+ENQ-0189,Refund/return,id,False,True
+ENQ-0190,Subscription,en,False,False
+ENQ-0191,Subscription,id,False,False
+ENQ-0192,Subscription,id,False,False
+ENQ-0193,Sizing,en,False,False
+ENQ-0194,Where to buy,sg,False,False
+ENQ-0195,Order status,en,False,False
+ENQ-0196,Order status,en,False,False
+ENQ-0197,Health complaint,sg,True,False
+ENQ-0198,Delivery delay,id,False,False
+ENQ-0199,Ingredients,zh,False,False
+ENQ-0200,Subscription,id,False,False
+ENQ-0201,Where to buy,sg,False,False
+ENQ-0202,Refund/return,id,False,False
+ENQ-0203,Sizing,ms,False,False
+ENQ-0204,Product usage,sg,False,False
+ENQ-0205,Delivery delay,en,False,False
+ENQ-0206,Order status,zh,False,False
+ENQ-0207,Sizing,en,False,False
+ENQ-0208,Where to buy,ms,False,False
+ENQ-0209,Order status,en,False,False
+ENQ-0210,Damaged item,sg,False,False
+ENQ-0211,Sizing,en,False,False
+ENQ-0212,Product usage,ms,False,False
+ENQ-0213,Where to buy,en,False,False
+ENQ-0214,Damaged item,ms,False,False
+ENQ-0215,Refund/return,sg,False,False
+ENQ-0216,Order status,en,False,False
+ENQ-0217,Where to buy,id,False,False
+ENQ-0218,Order status,ms,False,False
+ENQ-0219,Order status,en,False,False
+ENQ-0220,Order status,en,False,True
+ENQ-0221,Ingredients,id,False,False
+ENQ-0222,Product usage,en,False,False
+ENQ-0223,Unclear,sg,False,False
+ENQ-0224,Refund/return,zh,False,False
+ENQ-0225,Delivery delay,en,False,False
+ENQ-0226,Where to buy,id,False,False
+ENQ-0227,Unclear,id,False,False
+ENQ-0228,Sizing,en,False,False
+ENQ-0229,Order status,id,False,False
+ENQ-0230,Ingredients,en,False,False
+ENQ-0231,Sizing,ms,False,False
+ENQ-0232,Unclear,id,False,False
+ENQ-0233,Order status,en,False,False
+ENQ-0234,Product usage,sg,False,False
+ENQ-0235,Delivery delay,id,False,False
+ENQ-0236,Subscription,en,False,False
+ENQ-0237,Sizing,ms,False,False
+ENQ-0238,Product usage,ms,False,False
+ENQ-0239,Where to buy,zh,False,False
+ENQ-0240,Delivery delay,id,False,False
+ENQ-0241,Unclear,ms,False,False
+ENQ-0242,Where to buy,en,False,False
+ENQ-0243,Product usage,en,False,False
+ENQ-0244,Order status,id,False,False
+ENQ-0245,Order status,id,False,False
+ENQ-0246,Refund/return,sg,False,True
+ENQ-0247,Health complaint,en,True,False
+ENQ-0248,Product usage,id,False,False
+ENQ-0249,Delivery delay,en,False,False
+ENQ-0250,Delivery delay,en,False,False
+ENQ-0251,Order status,id,False,False
+ENQ-0252,Product usage,en,False,False
+ENQ-0253,Subscription,en,False,False
+ENQ-0254,Where to buy,ms,False,False
+ENQ-0255,Sizing,id,False,False
+ENQ-0256,Unclear,id,False,False
+ENQ-0257,Refund/return,id,False,False
+ENQ-0258,Order status,en,False,False
+ENQ-0259,Refund/return,id,False,False
+ENQ-0260,Order status,id,False,False
+ENQ-0261,Refund/return,en,False,False
+ENQ-0262,Damaged item,id,False,False
+ENQ-0263,Sizing,sg,False,False
+ENQ-0264,Product usage,en,False,False
+ENQ-0265,Damaged item,id,False,False
+ENQ-0266,Delivery delay,id,False,False
+ENQ-0267,Delivery delay,en,False,False
+ENQ-0268,Refund/return,id,False,True
+ENQ-0269,Damaged item,id,False,True
+ENQ-0270,Where to buy,sg,False,False
+ENQ-0271,Order status,id,False,True
+ENQ-0272,Sizing,id,False,False
+ENQ-0273,Refund/return,id,False,True
+ENQ-0274,Delivery delay,id,False,False
+ENQ-0275,Order status,id,False,True
+ENQ-0276,Delivery delay,en,False,True
+ENQ-0277,Product usage,en,False,False
+ENQ-0278,Sizing,en,False,False
+ENQ-0279,Order status,en,False,False
+ENQ-0280,Product usage,en,False,False
+ENQ-0281,Refund/return,id,False,False
+ENQ-0282,Refund/return,id,False,True
+ENQ-0283,Where to buy,en,False,False
+ENQ-0284,Unclear,en,False,False
+ENQ-0285,Order status,id,False,True
+ENQ-0286,Order status,ms,False,True
+ENQ-0287,Damaged item,en,False,True
+ENQ-0288,Unclear,en,False,False
+ENQ-0289,Subscription,ms,False,False
+ENQ-0290,Delivery delay,id,False,True
+ENQ-0291,Health complaint,en,True,False
+ENQ-0292,Delivery delay,sg,False,False
+ENQ-0293,Product usage,en,False,False
+ENQ-0294,Order status,ms,False,False
+ENQ-0295,Order status,en,False,False
+ENQ-0296,Order status,id,False,True
+ENQ-0297,Delivery delay,en,False,False
+ENQ-0298,Order status,en,False,False
+ENQ-0299,Delivery delay,id,False,True
+ENQ-0300,Unclear,id,False,False
+ENQ-0301,Refund/return,zh,False,True
+ENQ-0302,Where to buy,ms,False,False
+ENQ-0303,Subscription,id,False,False
+ENQ-0304,Subscription,en,False,False
+ENQ-0305,Ingredients,id,False,False
+ENQ-0306,Order status,id,False,False
+ENQ-0307,Damaged item,id,False,False
+ENQ-0308,Refund/return,en,False,False
+ENQ-0309,Where to buy,id,False,False
+ENQ-0310,Product usage,ms,False,False
+ENQ-0311,Order status,id,False,False
+ENQ-0312,Unclear,id,False,False
+ENQ-0313,Delivery delay,id,False,False
+ENQ-0314,Where to buy,zh,False,False
+ENQ-0315,Order status,en,False,True
+ENQ-0316,Ingredients,id,False,False
+ENQ-0317,Delivery delay,en,False,False
+ENQ-0318,Order status,en,False,False
+ENQ-0319,Where to buy,zh,False,False
+ENQ-0320,Sizing,en,False,False
+ENQ-0321,Damaged item,ms,False,True
+ENQ-0322,Order status,id,False,False
+ENQ-0323,Damaged item,en,False,False
+ENQ-0324,Unclear,ms,False,False
+ENQ-0325,Order status,en,False,False
+ENQ-0326,Delivery delay,en,False,False
+ENQ-0327,Unclear,zh,False,False
+ENQ-0328,Ingredients,id,False,False
+ENQ-0329,Where to buy,en,False,False
+ENQ-0330,Ingredients,en,False,False
+ENQ-0331,Subscription,en,False,False
+ENQ-0332,Order status,en,False,False
+ENQ-0333,Unclear,en,False,False
+ENQ-0334,Order status,en,False,False
+ENQ-0335,Order status,sg,False,True
+ENQ-0336,Order status,en,False,False
+ENQ-0337,Product usage,zh,False,False
+ENQ-0338,Where to buy,id,False,False
+ENQ-0339,Delivery delay,ms,False,False
+ENQ-0340,Health complaint,id,True,False
+ENQ-0341,Sizing,id,False,False
+ENQ-0342,Refund/return,en,False,True
+ENQ-0343,Order status,en,False,False
+ENQ-0344,Unclear,id,False,False
+ENQ-0345,Refund/return,ms,False,True
+ENQ-0346,Damaged item,en,False,False
+ENQ-0347,Delivery delay,id,False,False
+ENQ-0348,Where to buy,id,False,False
+ENQ-0349,Subscription,id,False,False
+ENQ-0350,Sizing,id,False,False
+ENQ-0351,Ingredients,ms,False,False
+ENQ-0352,Where to buy,en,False,False
+ENQ-0353,Sizing,id,False,False
+ENQ-0354,Refund/return,id,False,True
+ENQ-0355,Damaged item,zh,False,True
+ENQ-0356,Health complaint,sg,True,False
+ENQ-0357,Damaged item,sg,False,False
+ENQ-0358,Where to buy,en,False,False
+ENQ-0359,Subscription,ms,False,False
+ENQ-0360,Product usage,en,False,False
+ENQ-0361,Product usage,sg,False,False
+ENQ-0362,Ingredients,en,False,False
+ENQ-0363,Subscription,en,False,False
+ENQ-0364,Where to buy,en,False,False
+ENQ-0365,Subscription,ms,False,False
+ENQ-0366,Where to buy,en,False,False
+ENQ-0367,Damaged item,ms,False,True
+ENQ-0368,Where to buy,id,False,False
+ENQ-0369,Order status,sg,False,False
+ENQ-0370,Subscription,en,False,False
+ENQ-0371,Order status,en,False,True
+ENQ-0372,Order status,en,False,True
+ENQ-0373,Order status,en,False,False
+ENQ-0374,Where to buy,ms,False,False
+ENQ-0375,Damaged item,en,False,False
+ENQ-0376,Product usage,sg,False,False
+ENQ-0377,Order status,ms,False,True
+ENQ-0378,Sizing,id,False,False
+ENQ-0379,Where to buy,sg,False,False
+ENQ-0380,Order status,sg,False,False
+ENQ-0381,Sizing,en,False,False
+ENQ-0382,Where to buy,id,False,False
+ENQ-0383,Where to buy,sg,False,False
+ENQ-0384,Order status,id,False,False
+ENQ-0385,Where to buy,ms,False,False
+ENQ-0386,Delivery delay,en,False,True
+ENQ-0387,Subscription,id,False,False
+ENQ-0388,Damaged item,zh,False,True
+ENQ-0389,Product usage,en,False,False
+ENQ-0390,Refund/return,sg,False,False
+ENQ-0391,Delivery delay,en,False,False
+ENQ-0392,Order status,en,False,True
+ENQ-0393,Refund/return,en,False,False
+ENQ-0394,Delivery delay,ms,False,True
+ENQ-0395,Order status,en,False,True
+ENQ-0396,Ingredients,en,False,False
+ENQ-0397,Product usage,ms,False,False
+ENQ-0398,Refund/return,zh,False,False
+ENQ-0399,Product usage,ms,False,False
+ENQ-0400,Order status,en,False,False
+ENQ-0401,Order status,id,False,True
+ENQ-0402,Order status,en,False,False
+ENQ-0403,Delivery delay,id,False,True
+ENQ-0404,Damaged item,en,False,False
+ENQ-0405,Refund/return,id,False,False
+ENQ-0406,Damaged item,en,False,False
+ENQ-0407,Delivery delay,id,False,False
+ENQ-0408,Where to buy,ms,False,False
+ENQ-0409,Product usage,zh,False,False
+ENQ-0410,Refund/return,ms,False,False
+ENQ-0411,Order status,en,False,False
+ENQ-0412,Product usage,ms,False,False
+ENQ-0413,Product usage,en,False,False
+ENQ-0414,Order status,en,False,True
+ENQ-0415,Sizing,sg,False,False
+ENQ-0416,Sizing,en,False,False
+ENQ-0417,Order status,en,False,False
+ENQ-0418,Order status,id,False,False
+ENQ-0419,Sizing,id,False,False
+ENQ-0420,Delivery delay,id,False,True
+ENQ-0421,Health complaint,en,True,False
+ENQ-0422,Damaged item,ms,False,True
+ENQ-0423,Order status,sg,False,False
+ENQ-0424,Order status,en,False,True
+ENQ-0425,Ingredients,id,False,False
+ENQ-0426,Product usage,ms,False,False
+ENQ-0427,Subscription,zh,False,False
+ENQ-0428,Delivery delay,zh,False,False
+ENQ-0429,Product usage,en,False,False
+ENQ-0430,Unclear,en,False,False
+ENQ-0431,Order status,id,False,False
+ENQ-0432,Unclear,en,False,False
+ENQ-0433,Order status,ms,False,True
+ENQ-0434,Where to buy,ms,False,False
+ENQ-0435,Order status,id,False,False
+ENQ-0436,Product usage,en,False,False
+ENQ-0437,Order status,en,False,True
+ENQ-0438,Unclear,ms,False,False
+ENQ-0439,Refund/return,en,False,False
+ENQ-0440,Damaged item,ms,False,False
+ENQ-0441,Health complaint,ms,True,False
+ENQ-0442,Damaged item,ms,False,True
+ENQ-0443,Ingredients,ms,False,False
+ENQ-0444,Order status,id,False,True
+ENQ-0445,Order status,id,False,False
+ENQ-0446,Delivery delay,id,False,False
+ENQ-0447,Sizing,zh,False,False
+ENQ-0448,Order status,id,False,True
+ENQ-0449,Delivery delay,en,False,True
+ENQ-0450,Order status,en,False,True
+ENQ-0451,Unclear,sg,False,False
+ENQ-0452,Damaged item,zh,False,True
+ENQ-0453,Order status,ms,False,True
+ENQ-0454,Ingredients,ms,False,False
+ENQ-0455,Unclear,id,False,False
+ENQ-0456,Order status,zh,False,True
+ENQ-0457,Delivery delay,id,False,True
+ENQ-0458,Delivery delay,sg,False,False
+ENQ-0459,Ingredients,sg,False,False
+ENQ-0460,Product usage,en,False,False
+ENQ-0461,Refund/return,zh,False,False
+ENQ-0462,Order status,en,False,True
+ENQ-0463,Sizing,sg,False,False
+ENQ-0464,Order status,en,False,True
+ENQ-0465,Order status,en,False,False
+ENQ-0466,Product usage,en,False,False
+ENQ-0467,Order status,zh,False,False
+ENQ-0468,Product usage,sg,False,False
+ENQ-0469,Unclear,en,False,False
+ENQ-0470,Damaged item,en,False,False
+ENQ-0471,Sizing,ms,False,False
+ENQ-0472,Delivery delay,sg,False,False
+ENQ-0473,Where to buy,id,False,False
+ENQ-0474,Order status,ms,False,True
+ENQ-0475,Subscription,id,False,False
+ENQ-0476,Unclear,sg,False,False
+ENQ-0477,Damaged item,ms,False,False
+ENQ-0478,Delivery delay,id,False,True
+ENQ-0479,Unclear,id,False,False
+ENQ-0480,Where to buy,id,False,False
+ENQ-0481,Product usage,sg,False,False
+ENQ-0482,Refund/return,sg,False,False
+ENQ-0483,Ingredients,en,False,False
+ENQ-0484,Where to buy,id,False,False
+ENQ-0485,Order status,en,False,True
+ENQ-0486,Product usage,id,False,False
+ENQ-0487,Sizing,id,False,False
+ENQ-0488,Damaged item,ms,False,True
+ENQ-0489,Order status,sg,False,True
+ENQ-0490,Unclear,en,False,False
+ENQ-0491,Product usage,en,False,False
+ENQ-0492,Order status,en,False,False
+ENQ-0493,Order status,en,False,True
+ENQ-0494,Sizing,id,False,False
+ENQ-0495,Product usage,zh,False,False
+ENQ-0496,Delivery delay,en,False,True
+ENQ-0497,Subscription,id,False,False
+ENQ-0498,Refund/return,id,False,False
+ENQ-0499,Where to buy,en,False,False
+ENQ-0500,Order status,en,False,True
+ENQ-0501,Unclear,ms,False,False
+ENQ-0502,Unclear,en,False,False
+ENQ-0503,Where to buy,en,False,False
+ENQ-0504,Subscription,en,False,False
+ENQ-0505,Order status,en,False,False
+ENQ-0506,Sizing,en,False,False
+ENQ-0507,Ingredients,id,False,False
+ENQ-0508,Damaged item,en,False,False
+ENQ-0509,Order status,id,False,False
+ENQ-0510,Product usage,sg,False,False
+ENQ-0511,Refund/return,ms,False,True
+ENQ-0512,Delivery delay,id,False,False
+ENQ-0513,Product usage,sg,False,False
+ENQ-0514,Sizing,ms,False,False
+ENQ-0515,Damaged item,sg,False,False
+ENQ-0516,Sizing,en,False,False
+ENQ-0517,Delivery delay,en,False,True
+ENQ-0518,Product usage,ms,False,False
+ENQ-0519,Where to buy,zh,False,False
+ENQ-0520,Damaged item,ms,False,False
+ENQ-0521,Subscription,id,False,False
+ENQ-0522,Where to buy,ms,False,False
+ENQ-0523,Delivery delay,sg,False,False
+ENQ-0524,Unclear,id,False,False
+ENQ-0525,Unclear,id,False,False
+ENQ-0526,Product usage,en,False,False
+ENQ-0527,Refund/return,en,False,False
+ENQ-0528,Product usage,id,False,False
+ENQ-0529,Sizing,en,False,False
+ENQ-0530,Delivery delay,zh,False,True
+ENQ-0531,Refund/return,en,False,False
+ENQ-0532,Order status,en,False,False
+ENQ-0533,Sizing,en,False,False
+ENQ-0534,Delivery delay,en,False,True
+ENQ-0535,Product usage,en,False,False
+ENQ-0536,Sizing,en,False,False
+ENQ-0537,Product usage,sg,False,False
+ENQ-0538,Where to buy,id,False,False
+ENQ-0539,Sizing,id,False,False
+ENQ-0540,Unclear,id,False,False
+ENQ-0541,Ingredients,en,False,False
+ENQ-0542,Order status,en,False,False
+ENQ-0543,Health complaint,id,True,False
+ENQ-0544,Product usage,ms,False,False
+ENQ-0545,Order status,id,False,True
+ENQ-0546,Order status,en,False,False
+ENQ-0547,Subscription,en,False,False
+ENQ-0548,Ingredients,en,False,False
+ENQ-0549,Delivery delay,id,False,False
+ENQ-0550,Where to buy,zh,False,False
+ENQ-0551,Refund/return,ms,False,False
+ENQ-0552,Sizing,id,False,False
+ENQ-0553,Delivery delay,id,False,False
+ENQ-0554,Ingredients,id,False,False
+ENQ-0555,Product usage,ms,False,False
+ENQ-0556,Order status,en,False,True
+ENQ-0557,Health complaint,id,True,False
+ENQ-0558,Delivery delay,id,False,True
+ENQ-0559,Refund/return,sg,False,True
+ENQ-0560,Unclear,zh,False,False
+ENQ-0561,Order status,id,False,False
+ENQ-0562,Order status,en,False,False
+ENQ-0563,Unclear,ms,False,False
+ENQ-0564,Delivery delay,id,False,False
+ENQ-0565,Subscription,id,False,False
+ENQ-0566,Delivery delay,en,False,False
+ENQ-0567,Unclear,en,False,False
+ENQ-0568,Product usage,zh,False,False
+ENQ-0569,Damaged item,id,False,False
+ENQ-0570,Sizing,ms,False,False
+ENQ-0571,Refund/return,en,False,False
+ENQ-0572,Refund/return,sg,False,True
+ENQ-0573,Delivery delay,id,False,True
+ENQ-0574,Unclear,id,False,False
+ENQ-0575,Health complaint,sg,True,False
+ENQ-0576,Delivery delay,en,False,False
+ENQ-0577,Product usage,id,False,False
+ENQ-0578,Refund/return,en,False,False
+ENQ-0579,Delivery delay,en,False,False
+ENQ-0580,Delivery delay,sg,False,True
+ENQ-0581,Where to buy,id,False,False
+ENQ-0582,Order status,en,False,True
+ENQ-0583,Product usage,zh,False,False
+ENQ-0584,Sizing,en,False,False
+ENQ-0585,Delivery delay,en,False,False
+ENQ-0586,Delivery delay,id,False,False
+ENQ-0587,Order status,ms,False,False
+ENQ-0588,Delivery delay,ms,False,True
+ENQ-0589,Delivery delay,zh,False,False
+ENQ-0590,Order status,id,False,True
+ENQ-0591,Ingredients,sg,False,False
+ENQ-0592,Product usage,ms,False,False
+ENQ-0593,Product usage,ms,False,False
+ENQ-0594,Order status,sg,False,True
+ENQ-0595,Product usage,ms,False,False
+ENQ-0596,Unclear,id,False,False
+ENQ-0597,Order status,ms,False,False
+ENQ-0598,Subscription,sg,False,False
+ENQ-0599,Refund/return,ms,False,False
+ENQ-0600,Sizing,ms,False,False
+ENQ-0601,Sizing,sg,False,False
+ENQ-0602,Delivery delay,zh,False,False
+ENQ-0603,Subscription,id,False,False
+ENQ-0604,Where to buy,en,False,False
+ENQ-0605,Subscription,ms,False,False
+ENQ-0606,Order status,id,False,True
+ENQ-0607,Product usage,id,False,False
+ENQ-0608,Order status,id,False,False
+ENQ-0609,Where to buy,id,False,False
+ENQ-0610,Delivery delay,id,False,False
+ENQ-0611,Subscription,en,False,False
+ENQ-0612,Order status,en,False,True
+ENQ-0613,Product usage,en,False,False
+ENQ-0614,Delivery delay,sg,False,True
+ENQ-0615,Sizing,en,False,False
+ENQ-0616,Where to buy,id,False,False
+ENQ-0617,Product usage,ms,False,False
+ENQ-0618,Order status,ms,False,False
+ENQ-0619,Product usage,en,False,False
+ENQ-0620,Product usage,ms,False,False
+ENQ-0621,Product usage,sg,False,False
+ENQ-0622,Sizing,id,False,False
+ENQ-0623,Sizing,id,False,False
+ENQ-0624,Product usage,en,False,False
+ENQ-0625,Order status,ms,False,False
+ENQ-0626,Delivery delay,ms,False,False
+ENQ-0627,Order status,en,False,False
+ENQ-0628,Unclear,en,False,False
+ENQ-0629,Damaged item,id,False,False
+ENQ-0630,Order status,ms,False,False
+ENQ-0631,Subscription,en,False,False
+ENQ-0632,Subscription,zh,False,False
+ENQ-0633,Sizing,id,False,False
+ENQ-0634,Subscription,en,False,False
+ENQ-0635,Order status,sg,False,True
+ENQ-0636,Order status,id,False,False
+ENQ-0637,Subscription,en,False,False
+ENQ-0638,Order status,en,False,True
+ENQ-0639,Refund/return,id,False,False
+ENQ-0640,Subscription,en,False,False
+ENQ-0641,Order status,ms,False,True
+ENQ-0642,Damaged item,en,False,True
+ENQ-0643,Sizing,en,False,False
+ENQ-0644,Product usage,sg,False,False
+ENQ-0645,Sizing,en,False,False
+ENQ-0646,Product usage,en,False,False
+ENQ-0647,Ingredients,zh,False,False
+ENQ-0648,Sizing,id,False,False
+ENQ-0649,Delivery delay,sg,False,False
+ENQ-0650,Subscription,sg,False,False
+ENQ-0651,Refund/return,id,False,True
+ENQ-0652,Unclear,id,False,False
+ENQ-0653,Order status,id,False,True
+ENQ-0654,Ingredients,sg,False,False
+ENQ-0655,Order status,sg,False,False
+ENQ-0656,Unclear,zh,False,False
+ENQ-0657,Order status,id,False,False
+ENQ-0658,Refund/return,ms,False,False
+ENQ-0659,Unclear,id,False,False
+ENQ-0660,Product usage,en,False,False
+ENQ-0661,Order status,en,False,False
+ENQ-0662,Where to buy,en,False,False
+ENQ-0663,Where to buy,en,False,False
+ENQ-0664,Subscription,en,False,False
+ENQ-0665,Delivery delay,id,False,False
+ENQ-0666,Where to buy,id,False,False
+ENQ-0667,Order status,id,False,False
+ENQ-0668,Where to buy,sg,False,False
+ENQ-0669,Subscription,en,False,False
+ENQ-0670,Product usage,ms,False,False
+ENQ-0671,Product usage,id,False,False
+ENQ-0672,Ingredients,en,False,False
+ENQ-0673,Order status,zh,False,False
+ENQ-0674,Subscription,id,False,False
+ENQ-0675,Where to buy,id,False,False
+ENQ-0676,Where to buy,en,False,False
+ENQ-0677,Health complaint,en,True,False
+ENQ-0678,Refund/return,en,False,False
+ENQ-0679,Where to buy,id,False,False
+ENQ-0680,Unclear,en,False,False
+ENQ-0681,Unclear,id,False,False
+ENQ-0682,Delivery delay,ms,False,False
+ENQ-0683,Order status,ms,False,False
+ENQ-0684,Where to buy,ms,False,False
+ENQ-0685,Delivery delay,en,False,True
+ENQ-0686,Delivery delay,ms,False,True
+ENQ-0687,Damaged item,en,False,True
+ENQ-0688,Where to buy,zh,False,False
+ENQ-0689,Order status,zh,False,False
+ENQ-0690,Subscription,zh,False,False
+ENQ-0691,Where to buy,id,False,False
+ENQ-0692,Ingredients,id,False,False
+ENQ-0693,Order status,sg,False,True
+ENQ-0694,Subscription,ms,False,False
+ENQ-0695,Order status,en,False,True
+ENQ-0696,Order status,ms,False,True
+ENQ-0697,Sizing,id,False,False
+ENQ-0698,Sizing,en,False,False
+ENQ-0699,Subscription,en,False,False
+ENQ-0700,Product usage,en,False,False
+ENQ-0701,Delivery delay,en,False,False
+ENQ-0702,Subscription,ms,False,False
+ENQ-0703,Refund/return,ms,False,True
+ENQ-0704,Ingredients,en,False,False
+ENQ-0705,Ingredients,zh,False,False
+ENQ-0706,Refund/return,id,False,True
+ENQ-0707,Order status,sg,False,False
+ENQ-0708,Unclear,en,False,False
+ENQ-0709,Order status,id,False,True
+ENQ-0710,Product usage,en,False,False
+ENQ-0711,Order status,en,False,False
+ENQ-0712,Refund/return,zh,False,False
+ENQ-0713,Sizing,id,False,False
+ENQ-0714,Sizing,id,False,False
+ENQ-0715,Product usage,zh,False,False
+ENQ-0716,Sizing,en,False,False
+ENQ-0717,Order status,en,False,False
+ENQ-0718,Order status,ms,False,True
+ENQ-0719,Health complaint,en,True,False
+ENQ-0720,Order status,id,False,True
+ENQ-0721,Delivery delay,en,False,True
+ENQ-0722,Where to buy,en,False,False
+ENQ-0723,Delivery delay,id,False,True
+ENQ-0724,Refund/return,en,False,False
+ENQ-0725,Order status,ms,False,True
+ENQ-0726,Damaged item,sg,False,False
+ENQ-0727,Delivery delay,sg,False,True
+ENQ-0728,Delivery delay,id,False,False
+ENQ-0729,Product usage,zh,False,False
+ENQ-0730,Delivery delay,en,False,False
+ENQ-0731,Health complaint,ms,True,False
+ENQ-0732,Delivery delay,en,False,True
+ENQ-0733,Order status,en,False,True
+ENQ-0734,Order status,id,False,False
+ENQ-0735,Unclear,ms,False,False
+ENQ-0736,Where to buy,en,False,False
+ENQ-0737,Subscription,id,False,False
+ENQ-0738,Delivery delay,en,False,True
+ENQ-0739,Sizing,sg,False,False
+ENQ-0740,Where to buy,sg,False,False
+ENQ-0741,Ingredients,ms,False,False
+ENQ-0742,Refund/return,sg,False,False
+ENQ-0743,Ingredients,id,False,False
+ENQ-0744,Unclear,en,False,False
+ENQ-0745,Health complaint,ms,True,False
+ENQ-0746,Delivery delay,id,False,False
+ENQ-0747,Where to buy,ms,False,False
+ENQ-0748,Order status,en,False,False
+ENQ-0749,Product usage,id,False,False
+ENQ-0750,Order status,id,False,False
+ENQ-0751,Product usage,en,False,False
+ENQ-0752,Order status,zh,False,True
+ENQ-0753,Subscription,id,False,False
+ENQ-0754,Where to buy,id,False,False
+ENQ-0755,Subscription,id,False,False
+ENQ-0756,Delivery delay,en,False,False
+ENQ-0757,Sizing,zh,False,False
+ENQ-0758,Delivery delay,sg,False,False
+ENQ-0759,Unclear,sg,False,False
+ENQ-0760,Damaged item,id,False,True
+ENQ-0761,Order status,id,False,True
+ENQ-0762,Damaged item,ms,False,False
+ENQ-0763,Order status,id,False,False
+ENQ-0764,Order status,en,False,True
+ENQ-0765,Damaged item,ms,False,False
+ENQ-0766,Delivery delay,zh,False,True
+ENQ-0767,Refund/return,en,False,False
+ENQ-0768,Damaged item,en,False,False
+ENQ-0769,Sizing,ms,False,False
+ENQ-0770,Where to buy,en,False,False
+ENQ-0771,Order status,id,False,False
+ENQ-0772,Order status,en,False,True
+ENQ-0773,Refund/return,id,False,True
+ENQ-0774,Damaged item,en,False,False
+ENQ-0775,Where to buy,sg,False,False
+ENQ-0776,Sizing,en,False,False
+ENQ-0777,Order status,id,False,False
+ENQ-0778,Subscription,id,False,False
+ENQ-0779,Product usage,id,False,False
+ENQ-0780,Delivery delay,id,False,False
+ENQ-0781,Refund/return,en,False,False
+ENQ-0782,Delivery delay,en,False,False
+ENQ-0783,Ingredients,id,False,False
+ENQ-0784,Health complaint,sg,True,False
+ENQ-0785,Subscription,id,False,False
+ENQ-0786,Ingredients,en,False,False
+ENQ-0787,Subscription,ms,False,False
+ENQ-0788,Where to buy,en,False,False
+ENQ-0789,Delivery delay,en,False,True
+ENQ-0790,Where to buy,en,False,False
+ENQ-0791,Ingredients,en,False,False
+ENQ-0792,Sizing,id,False,False
+ENQ-0793,Refund/return,id,False,True
+ENQ-0794,Order status,ms,False,True
+ENQ-0795,Order status,id,False,False
+ENQ-0796,Delivery delay,zh,False,False
+ENQ-0797,Order status,id,False,False
+ENQ-0798,Where to buy,id,False,False
+ENQ-0799,Order status,ms,False,True
+ENQ-0800,Product usage,id,False,False
+ENQ-0801,Product usage,en,False,False
+ENQ-0802,Product usage,id,False,False
+ENQ-0803,Refund/return,id,False,True
+ENQ-0804,Refund/return,en,False,False
+ENQ-0805,Refund/return,en,False,True
+ENQ-0806,Damaged item,id,False,False
+ENQ-0807,Sizing,ms,False,False
+ENQ-0808,Order status,id,False,True
+ENQ-0809,Sizing,id,False,False
+ENQ-0810,Order status,en,False,False
+ENQ-0811,Health complaint,id,True,False
+ENQ-0812,Sizing,zh,False,False
+ENQ-0813,Where to buy,en,False,False
+ENQ-0814,Refund/return,en,False,False
+ENQ-0815,Ingredients,en,False,False
+ENQ-0816,Order status,id,False,True
+ENQ-0817,Subscription,en,False,False
+ENQ-0818,Sizing,en,False,False
+ENQ-0819,Order status,en,False,False
+ENQ-0820,Order status,ms,False,True
+ENQ-0821,Order status,zh,False,True
+ENQ-0822,Sizing,id,False,False
+ENQ-0823,Where to buy,sg,False,False
+ENQ-0824,Where to buy,id,False,False
+ENQ-0825,Refund/return,en,False,True
+ENQ-0826,Order status,ms,False,False
+ENQ-0827,Sizing,en,False,False
+ENQ-0828,Delivery delay,id,False,True
+ENQ-0829,Product usage,en,False,False
+ENQ-0830,Product usage,en,False,False
+ENQ-0831,Order status,ms,False,True
+ENQ-0832,Where to buy,ms,False,False
+ENQ-0833,Order status,zh,False,False
+ENQ-0834,Order status,ms,False,False
+ENQ-0835,Unclear,en,False,False
+ENQ-0836,Delivery delay,sg,False,False
+ENQ-0837,Delivery delay,ms,False,True
+ENQ-0838,Refund/return,zh,False,False
+ENQ-0839,Unclear,id,False,False
+ENQ-0840,Sizing,sg,False,False
+ENQ-0841,Order status,id,False,True
+ENQ-0842,Subscription,sg,False,False
+ENQ-0843,Ingredients,en,False,False
+ENQ-0844,Ingredients,id,False,False
+ENQ-0845,Delivery delay,id,False,False
+ENQ-0846,Order status,zh,False,False
+ENQ-0847,Unclear,en,False,False
+ENQ-0848,Sizing,zh,False,False
+ENQ-0849,Damaged item,id,False,True
+ENQ-0850,Where to buy,id,False,False
+ENQ-0851,Where to buy,zh,False,False
+ENQ-0852,Refund/return,en,False,True
+ENQ-0853,Sizing,ms,False,False
+ENQ-0854,Product usage,en,False,False
+ENQ-0855,Damaged item,en,False,True
+ENQ-0856,Refund/return,en,False,False
+ENQ-0857,Sizing,en,False,False
+ENQ-0858,Damaged item,en,False,False
+ENQ-0859,Where to buy,id,False,False
+ENQ-0860,Delivery delay,en,False,False
+ENQ-0861,Ingredients,en,False,False
+ENQ-0862,Sizing,ms,False,False
+ENQ-0863,Order status,ms,False,True
+ENQ-0864,Unclear,id,False,False
+ENQ-0865,Subscription,en,False,False
+ENQ-0866,Sizing,ms,False,False
+ENQ-0867,Damaged item,en,False,True
+ENQ-0868,Product usage,sg,False,False
+ENQ-0869,Product usage,id,False,False
+ENQ-0870,Unclear,id,False,False
+ENQ-0871,Refund/return,zh,False,True
+ENQ-0872,Where to buy,ms,False,False
+ENQ-0873,Subscription,id,False,False
+ENQ-0874,Where to buy,en,False,False
+ENQ-0875,Product usage,en,False,False
+ENQ-0876,Where to buy,en,False,False
+ENQ-0877,Order status,sg,False,False
+ENQ-0878,Where to buy,sg,False,False
+ENQ-0879,Subscription,en,False,False
+ENQ-0880,Product usage,sg,False,False
+ENQ-0881,Delivery delay,zh,False,False
+ENQ-0882,Where to buy,en,False,False
+ENQ-0883,Delivery delay,en,False,False
+ENQ-0884,Subscription,ms,False,False
+ENQ-0885,Order status,en,False,True
+ENQ-0886,Delivery delay,id,False,True
+ENQ-0887,Product usage,en,False,False
+ENQ-0888,Unclear,en,False,False
+ENQ-0889,Unclear,id,False,False
+ENQ-0890,Order status,en,False,False
+ENQ-0891,Delivery delay,en,False,False
+ENQ-0892,Order status,en,False,True
+ENQ-0893,Delivery delay,ms,False,True
+ENQ-0894,Damaged item,id,False,False
+ENQ-0895,Subscription,en,False,False
+ENQ-0896,Where to buy,id,False,False
+ENQ-0897,Ingredients,zh,False,False
+ENQ-0898,Delivery delay,en,False,False
+ENQ-0899,Delivery delay,en,False,False
