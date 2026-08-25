@@ -1,0 +1,2 @@
+n,deflected,reduction,saved_usd,team_cost_usd,cost_before,cost_after,frt_now_hrs,frt_after_hrs,csat_now,csat_projected,health_total,health_recall,health_auto_answered,health_auto_gate1_off,lang_accuracy,topic_accuracy,topic_best_lang,topic_best,topic_worst_lang,topic_worst,wrong_topic_auto_sent,agent_handled_rate,human_handled_rate
+900,0.4389,0.6135,73625,120000,11.11,4.29,3.23,1.91,3.74,3.99,22,1.0,0,0,0.9389,0.9478,English,1.0,Malay,0.8264,0,0.7622,0.8611
