@@ -33,7 +33,7 @@ from datetime import datetime, timezone
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Blood · Customer Enquiry Agent",
+st.set_page_config(page_title="Customer Enquiry Agent",
                    page_icon="💬", layout="wide")
 
 STORE, DATA = "store", "data"
@@ -99,7 +99,7 @@ n_all = len(dec)
 
 # ----------------------------------------------------------------- header
 st.title("Customer Feedback & Enquiry Intelligence")
-st.caption("Blood · use case 6 of 6 · scorecard 4.40, act-now quadrant · "
+st.caption("Multilingual enquiry triage with approved-answer control · "
            f"{n_all} enquiries in one month ({n_all*MONTHS:,}/yr) · "
            "five languages")
 
