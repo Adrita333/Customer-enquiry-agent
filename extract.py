@@ -20,7 +20,7 @@ is identical on every run, and it can be audited line by line. What it costs is
 maintenance, and eval.py measures exactly how much.
 
 FIVE LANGUAGES, FIVE KEYWORD SETS
-63% of Blood's inbox is not English:
+63% of Vela's inbox is not English:
 
     en  "My order is already 6 days late"
     sg  "my order still never come leh, so long already"
@@ -48,7 +48,7 @@ TWO DISCIPLINES
   NEVER GUESS.           No keyword match means topic None, which sends the
                          enquiry to the clarity gate to be asked about. A held
                          enquiry is a delay; a guessed one is a wrong answer in
-                         Blood's voice.
+                         Vela's voice.
 """
 
 import json

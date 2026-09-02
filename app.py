@@ -339,7 +339,7 @@ with right:
             st.caption("Answer identified but not filled in — the reply needs a "
                        "detail the customer never gave.")
     else:
-        st.warning("No approved answer was used. Nothing goes out under Blood's "
+        st.warning("No approved answer was used. Nothing goes out under Vela's "
                    "name that is not in the approved library, in a translation "
                    "that was signed off in advance.")
 

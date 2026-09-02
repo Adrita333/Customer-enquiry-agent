@@ -1,13 +1,23 @@
-# Blood · Customer Feedback & Enquiry Intelligence Agent
+# Customer Feedback & Enquiry Intelligence Agent
 
-Use case 6 of 6 from the Blood AI case study. Scores 900 customer enquiries
-across five languages (English, Singlish, Malay, Bahasa Indonesia, Mandarin)
-and decides which can be answered from a pre-approved library without a human.
+Scores 900 customer enquiries across five languages (English, Singlish, Malay,
+Bahasa Indonesia, Mandarin) and decides which can be answered from a
+pre-approved library without a human.
+
+<sub>*Vela is a fictional consumer brand. Every message, answer and outcome in
+this repository is synthetic.*</sub>
 
 **No LLM.** Keyword lists per language plus a regex for order references. The
 Gemini version hit a 20-request-per-day free-tier wall, so this reads the same
 900 messages for free, instantly, identically on every run - and eval.py prices
 exactly what that costs in accuracy.
+
+[![The inbox — 900 enquiries, 395 answered without a human](assets/app.png)](https://customer-enquiry-agent.streamlit.app/)
+
+**[▶ Open the live app](https://customer-enquiry-agent.streamlit.app/)**
+
+<sub>*Hosted free; if it shows a "wake app" button, give it about 30 seconds.
+All data is synthetic — no customer messages appear anywhere in this repository.*</sub>
 
 ## Run it
 

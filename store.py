@@ -9,11 +9,11 @@ store.py - the audit trail. Three files.
 WHY drafts.csv IS A SEPARATE FILE
 It is this build's equivalent of the invoice agent's citations.csv. There the
 question was "which clause justified this rejection?" Here it is "which
-approved answer went out under Blood's name, in which language, and did a human
+approved answer went out under Vela's name, in which language, and did a human
 see it first?"
 
 For a femcare and infant-care brand that second question is the whole
-governance story. Product advice sent automatically, in Blood's voice, in
+governance story. Product advice sent automatically, in Vela's voice, in
 Bahasa Indonesia, to a mother asking about her newborn - that is not a log
 line, it is a published claim in a language most of the team cannot read.
 drafts.csv is the record of every one of them.
@@ -23,7 +23,7 @@ THREE HARD RULES. This file exits non-zero if any is broken.
   1  NOTHING IS SENT WITHOUT AN APPROVED SOURCE
      Every AUTO_ANSWER must carry an answer_id and the text that went out.
      An auto-answer with no approved source is a reader improvising in
-     Blood's voice, which is exactly what must never happen.
+     Vela's voice, which is exactly what must never happen.
 
   2  NO HEALTH COMPLAINT IS EVER AUTO-ANSWERED
      Checked here as well as in rules.py, on purpose. A safety property

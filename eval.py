@@ -28,7 +28,7 @@ WHAT IS AND IS NOT A FAIR TEST, stated before the numbers
 
 THE SECTION THAT MATTERS MOST IN THIS BUILD
 Accuracy BY LANGUAGE. An overall score hides the thing worth knowing: whether
-one market's customers are served worse than another's. Blood sells in three
+one market's customers are served worse than another's. Vela sells in three
 markets and 63% of this inbox is not English, so a single blended number would
 be the most misleading thing on the page.
 
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     print("   the priced case for the API bill.")
     print(f"\n   auto-answers sent on a WRONG topic: {wa}")
     print("   A wrong topic that still reaches a human is a delay. A wrong topic")
-    print("   sent automatically is a wrong answer in Blood's voice.")
+    print("   sent automatically is a wrong answer in Vela's voice.")
 
     # ---------------------------------------------------------------- 3
     print("\n" + "-" * 78)
