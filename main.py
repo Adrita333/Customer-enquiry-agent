@@ -81,7 +81,7 @@ if __name__ == "__main__":
     n = k["n"]
 
     print("\n" + "=" * 74)
-    print(f"  BLOOD  ·  CUSTOMER ENQUIRY AGENT  ·  {n} enquiries scored")
+    print(f"  VELA  ·  CUSTOMER ENQUIRY AGENT  ·  {n} enquiries scored")
     print(f"  one month at the post-diaper-launch run rate = {k['annual']:,}/yr")
     print("=" * 74)
 

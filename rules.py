@@ -3,7 +3,7 @@
 rules.py - the decision engine. Six gates, in severity order.
 
     EXTRACTION supplies what the customer SAID.
-    BLOOD'S RECORDS supply what is TRUE.
+    VELA'S RECORDS supply what is TRUE.
     CODE decides. Nothing else issues a verdict.
 
 There is no retrieval layer and that absence is deliberate. One support policy
