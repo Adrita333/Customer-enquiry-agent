@@ -1,5 +1,7 @@
 # Customer Feedback & Enquiry Intelligence Agent
 
+[![tests](https://github.com/Adrita333/Customer-enquiry-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/Adrita333/Customer-enquiry-agent/actions/workflows/tests.yml)
+
 Scores 900 customer enquiries across five languages (English, Singlish, Malay,
 Bahasa Indonesia, Mandarin) and decides which can be answered from a
 pre-approved library without a human.
@@ -44,6 +46,32 @@ computes nothing at demo time - it reads pre-written CSVs.
 | store.py | the audit trail. Three hard rules; exits non-zero if any breaks. |
 | eval.py | the ONLY file allowed to open ground_truth.csv and outcomes.csv. Publishes scorecard.csv. |
 | app.py | the inbox. Reads CSVs only; imports neither rules nor main. |
+
+## The tests
+
+    python -m pytest -q          # 12 tests, ~2s
+
+Properties, not numbers. Pinning "395 deflected" would break whenever a
+keyword list changed and would prove nothing about whether the agent is safe.
+
+The one that matters is **`test_health_complaints_survive_the_safety_gate_being_deleted`**.
+The claim above — that the guardrail is a missing row rather than a rule — is
+easy to state and easy to be wrong about, so the test switches gate 1 off
+entirely and re-scores every health enquiry. None may be auto-answered,
+because gate 4 still has nothing approved to send.
+
+Verified by breaking it: adding a `Health complaint` row to
+`approved_answers.csv` makes that test fail, exactly as it should. The
+guardrail would have quietly become one rule deep instead of two.
+
+| Test | What breaks it |
+|---|---|
+| Health complaints survive gate 1 being deleted | An approved answer is added for a health topic |
+| Nothing unclassified is answered | Gate 2 starts guessing a topic instead of asking |
+| Every auto-answer names an approved answer | A draft is generated rather than selected |
+| Nothing needing an order reference is sent without one | Gate 5 is reordered after the send |
+| The third contact this month goes to a human | The repeat-contact gate is bypassed for answerable topics |
+| Scoring twice gives the same answer | A tie-break starts depending on dict ordering |
 
 ## Headline results
 
